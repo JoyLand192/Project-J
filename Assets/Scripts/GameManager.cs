@@ -8,5 +8,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log($"hello!");
         Debug.Log("FUck YOU");
+        Debug.Log($"hello!");
+        Debug.Log("FUck YOU");
     }
 }
