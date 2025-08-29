@@ -7,5 +7,6 @@ public class GameManager : MonoBehaviour
     void Awake()
     {
         Debug.Log($"hello!");
+        Debug.Log("FUck YOU");
     }
 }
