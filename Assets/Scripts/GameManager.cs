@@ -12,5 +12,7 @@ public class GameManager : MonoBehaviour
         Debug.Log("FUck YOU");
 
         Debug.Log("gyuseong sex hog rider");
+
+        int my = 100;
     }
 }
