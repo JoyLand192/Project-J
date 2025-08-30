@@ -184,7 +184,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 1ff76c8c910aaa34995d7f2e47061f3a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -242,11 +242,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec1e24c567698b6499f511f98b226a31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  jumpHeight: 10
+  moveSpeed: 5
+  jumpForce: 5
   cameraTransform: {fileID: 1966968933}
   cameraOffset: {x: 0, y: 5, z: -7}
   mouseSensitivity: 100
+  smoothTime: 0.2
 --- !u!54 &877596816
 Rigidbody:
   m_ObjectHideFlags: 0
