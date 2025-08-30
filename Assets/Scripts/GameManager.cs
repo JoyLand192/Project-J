@@ -4,15 +4,5 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    void Awake()
-    {
-        Debug.Log($"hello!");
-        Debug.Log("FUck YOU");
-        Debug.Log($"hello!");
-        Debug.Log("FUck YOU");
-
-        Debug.Log("gyuseong sex hog rider");
-
-        int my = 100;
-    }
+    // free to write
 }
